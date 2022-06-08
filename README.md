@@ -12,6 +12,6 @@ Sou Carlos, estudante de programação, abaixo estão algumas de minhas habilida
 
 # Meus principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CarlosEduardoAD/Flyers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CarlosEduardoAD/Flyers)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/CarlosEduardoAD/Sherlock-Project)
-
+funcio
