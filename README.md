@@ -16,4 +16,4 @@ Sou Carlos, estudante de programação, abaixo estão algumas de minhas habilida
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Sherlock-Project)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-projeto&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
