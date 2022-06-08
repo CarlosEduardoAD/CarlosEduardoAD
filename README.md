@@ -1,18 +1,18 @@
-### Opa, que bom que passou por aqui
+### How's going ? Welcome to my github
 
-Sou Carlos, estudante de programação, abaixo estão algumas de minhas habilidades
+I'm Carlos, programming student, here are my habilities
 
-- Python
-- Front-end básico (HTML, CSS E Javascript)
-- MySql
-- Sqlite
-- Tailwind CSS
+- Python 🐍
+- HTML, CSS and Javascript 🖥️
+- MySql 🐬
+- Sqlite 🪶
+- Tailwind CSS 🌊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Meus principais Projetos
+# Projects that you should look into
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Sherlock-Project)<br>
