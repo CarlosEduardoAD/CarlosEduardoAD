@@ -10,6 +10,8 @@ Sou Carlos, estudante de programação, abaixo estão algumas de minhas habilida
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Meus principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<space>
