@@ -12,7 +12,7 @@ I'm Carlos, programming student, here are my habilities
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Projects that you should look into
+# Some of my projects that I guess you'll like
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Sherlock-Project)<br>
