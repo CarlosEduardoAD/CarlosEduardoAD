@@ -8,5 +8,5 @@ Sou Carlos, estudante de programação, abaixo estão algumas de minhas habilida
 - Sqlite
 - Tailwind CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=dark)
 
