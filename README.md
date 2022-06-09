@@ -1,12 +1,17 @@
 ### How's going ? Welcome to my github
 
-I'm Carlos, programming student, here are my habilities
+I'm Carlos, programming student, here are my habilities:
 
 - Python 🐍
 - HTML, CSS and Javascript 🖥️
 - MySql 🐬
 - Sqlite 🪶
 - Tailwind CSS 🌊
+
+I'm Learning:
+
+- Svelte 🍊
+- PHP 🐘
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
