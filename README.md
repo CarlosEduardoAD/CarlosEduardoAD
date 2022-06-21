@@ -11,7 +11,7 @@ I'm Carlos, programming student, here are my habilities:
 I'm Learning:
 
 - Svelte 🍊
-- PHP 🐘
+- Ruby on Rails 🚂
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
