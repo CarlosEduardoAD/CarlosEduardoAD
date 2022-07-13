@@ -8,6 +8,11 @@ I'm Carlos, programming student, here are my habilities:
 - Sqlite 🪶
 - Tailwind CSS 🌊
 
+I also have some technologies which I've a only basic understandment
+
+- React JS
+- Vue Js
+
 I'm Learning:
 
 - Svelte 🍊
