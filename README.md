@@ -10,13 +10,8 @@ I'm Carlos, programming student, here are my habilities:
 
 I also have some technologies which I've a only had a basic experience
 
-- React JS 🕶️
+- React JS (learning) 🕶️
 - Vue Js 👀
-
-I'm Learning:
-
-- Svelte 🍊
-- Ruby on Rails 🚂
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
