@@ -5,7 +5,7 @@ I'm Carlos, programming student, here are my habilities:
 - Python 🐍
 - HTML, CSS and Javascript 🖥️
 - MySql 🐬
-- Sqlite 🪶
+- Sqlite 📘
 - Tailwind CSS 🌊
 
 I also have some technologies which I've a only had a basic experience
