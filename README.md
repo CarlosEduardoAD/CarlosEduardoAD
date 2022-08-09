@@ -1,6 +1,8 @@
 ### How's going ? Welcome to my github
 
-I'm Carlos, programming student, here are my habilities:
+I'm Carlos, programming student
+
+# I have experience with
 
 - Python 🐍
 - HTML, CSS and Javascript 🖥️
@@ -8,12 +10,13 @@ I'm Carlos, programming student, here are my habilities:
 - Sqlite 🪶
 - Tailwind CSS 🌊
 
-I also have some technologies which I've a only had a basic experience:
+# I have basic experience with 
 
 - React JS (learning) 🕶️
 - Vue Js 👀
 
-<div align='center'>Other:</div>
+# I also use
+
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
