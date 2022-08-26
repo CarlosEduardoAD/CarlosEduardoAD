@@ -33,3 +33,4 @@ I'm Carlos, programming student
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Sherlock-Project)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/portfolio)<space>
