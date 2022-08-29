@@ -12,8 +12,8 @@ I'm Carlos, programming student
 
 # I have basic experience with 
 
-- React JS (learning) 🕶️
-- Vue Js 👀
+- React JS (Studying it for now) 🕶️
+- Vue Js (Probably I will study this a next time)👀
 
 # I also use
 
