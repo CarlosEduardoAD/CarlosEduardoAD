@@ -2,7 +2,7 @@
 
 I'm Carlos, programming student
 
-# I have experience with
+# I have experience/knowledge with
 
 - Python 🐍
 - HTML, CSS and Javascript 🖥️
