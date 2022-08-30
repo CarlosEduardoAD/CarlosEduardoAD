@@ -30,7 +30,7 @@ I'm Carlos, programming student
 
 # Some of my projects that I guess you'll like
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/sherlock-project)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/sherlock_project)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=portfolio&theme=algolia)](https://github.com/CarlosEduardoAD/portfolio)<space>
