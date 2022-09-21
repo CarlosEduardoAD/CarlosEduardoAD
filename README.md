@@ -14,6 +14,8 @@ I'm Carlos, programming student
 
 - React JS (Studying it for now) 🕶️
 - Vue Js (Probably I will study this a next time)👀
+- Node JS 📗
+- Ruby 💎
 
 # I also use
 
