@@ -1,5 +1,7 @@
 # How's going ? Welcome to my GitHub 👋
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### I have experience/knowledge with
 
 - Python 🐍
@@ -26,7 +28,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Some of my projects that I guess you'll like
 
@@ -34,6 +36,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=portfolio&theme=algolia)](https://github.com/CarlosEduardoAD/portfolio)<space>
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 # Social medias
   
