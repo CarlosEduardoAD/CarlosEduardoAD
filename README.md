@@ -1,8 +1,8 @@
-### How's going ? Welcome to my github
+# How's going ? Welcome to my github
 
-I'm Carlos, programming student
+![]('https://media-exp1.licdn.com/dms/image/C4D16AQFZKeMcq1ekVg/profile-displaybackgroundimage-shrink_350_1400/0/1654709226786?e=1673481600&v=beta&t=WNj5YhmQ2QBT6PYyI581nfkujhObyQ5QheaigVMN-3E')
 
-# I have experience/knowledge with
+### I have experience/knowledge with
 
 - Python 🐍
 - HTML, CSS and Javascript 🖥️
@@ -10,14 +10,14 @@ I'm Carlos, programming student
 - Sqlite 🪶
 - Tailwind CSS 🌊
 
-# I have basic experience with 
+### I have basic experience with 
 
 - React JS 🕶️ (Studying it for now)
 - Vue Js (Probably I will study this a next time)👀
 - Node JS 📗(Studying it for now)
 - Ruby 💎(Studying it for now)
 
-# I also use
+### I also use
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
