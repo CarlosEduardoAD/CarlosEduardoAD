@@ -34,3 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=portfolio&theme=algolia)](https://github.com/CarlosEduardoAD/portfolio)<space>
+  
+# Social medias
+  
+  Linkedin : https://www.linkedin.com/in/carlos-eduardo-mariano-regis-990222219
