@@ -1,6 +1,4 @@
-# How's going ? Welcome to my github
-
-![]('https://media-exp1.licdn.com/dms/image/C4D16AQFZKeMcq1ekVg/profile-displaybackgroundimage-shrink_350_1400/0/1654709226786?e=1673481600&v=beta&t=WNj5YhmQ2QBT6PYyI581nfkujhObyQ5QheaigVMN-3E')
+# How's going ? Welcome to my GitHub 👋
 
 ### I have experience/knowledge with
 
