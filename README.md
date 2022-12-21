@@ -9,12 +9,12 @@
 - MariaDB ⌨️
 - Sqlite 🪶
 - Tailwind CSS 🌊
+- React JS 🕶️ 
+- Node JS 📗(Express)
 
 ### I have basic experience with 
 
-- React JS 🕶️ (Studying it for now)
 - Vue Js (Probably I will study this a next time)👀
-- Node JS 📗(Studying it for now)
 - Ruby 💎(Studying it for now)
 
 ### I also use
