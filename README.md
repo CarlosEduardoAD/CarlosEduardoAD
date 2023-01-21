@@ -11,13 +11,12 @@
 - Tailwind CSS 🌊
 - React JS 🕶️ 
 - Node JS 📗(Express)
+- Styled Components
 
 ### I have basic experience with 
 
-- Golang
+- Golang 
 - Gin Gonic (Rest API framework)
-- Vue Js (Probably I will study this a next time)👀
-- Ruby 💎(Studying it for now)
 
 ### I also use
 
