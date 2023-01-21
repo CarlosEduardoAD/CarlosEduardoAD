@@ -14,6 +14,8 @@
 
 ### I have basic experience with 
 
+- Golang
+- Gin Gonic (Rest API framework)
 - Vue Js (Probably I will study this a next time)👀
 - Ruby 💎(Studying it for now)
 
