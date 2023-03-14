@@ -4,7 +4,7 @@
 
 ### I have experience/knowledge with
 
-- Python 🐍
+- Python 🐍 (Web and Automations mostly)
 - HTML, CSS and Javascript 🖥️
 - MariaDB ⌨️
 - Sqlite 🪶
@@ -17,15 +17,12 @@
 
 - Golang 
 - Gin Gonic (Rest API framework)
+- DDD, SOLID and Clean Code 
 
-### I also use
+### I also have some knowlodge with:
 
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+- Design (Illustrator, Photoshop, Canva etc)
+- Marketing Fundamentals
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardoAD&show_icons=true&theme=radical)
 
