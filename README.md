@@ -19,6 +19,11 @@
 - Gin Gonic (Rest API framework)
 - DDD, SOLID and Clean Code 
 
+### I am learning
+
+- React JS
+- Java
+
 ### I also have some knowlodge with:
 
 - Design (Illustrator, Photoshop, Canva etc)
