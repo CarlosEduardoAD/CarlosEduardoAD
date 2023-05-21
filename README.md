@@ -21,7 +21,7 @@
 
 ### I am learning
 
-- React JS
+- Next JS
 - Java
 
 ### I also have some knowlodge with:
@@ -38,7 +38,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/sherlock_project)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=portfolio&theme=algolia)](https://github.com/CarlosEduardoAD/portfolio)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=starfolio&theme=algolia)](https://github.com/CarlosEduardoAD/starfolio)<space>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=B4-projeto-nlw-&theme=algolia)](https://github.com/CarlosEduardoAD/B4-projeto-nlw-)<space>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
