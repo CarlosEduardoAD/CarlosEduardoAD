@@ -40,6 +40,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=starfolio&theme=algolia)](https://github.com/CarlosEduardoAD/starfolio)<space>
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=B4-projeto-nlw-&theme=algolia)](https://github.com/CarlosEduardoAD/B4-projeto-nlw-)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=go_ing-on&theme=algolia)]( https://github.com/CarlosEduardoAD/go_ing-on)<space>
+
+
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
