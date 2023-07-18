@@ -17,12 +17,16 @@
 
 - Golang 
 - Gin Gonic (Rest API framework)
-- DDD, SOLID and Clean Code 
+- DDD, SOLID and Clean Code
+- Kafka
+- DevOps (Docker, GitHub Actions)
 
 ### I am learning
 
+- Automations
 - Next JS
 - Java
+- Cloud Computing
 
 ### I also have some knowlodge with:
 
