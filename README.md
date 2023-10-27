@@ -12,20 +12,18 @@
 - React JS 🕶️ 
 - Node JS 📗(Express)
 - Styled Components
-
-### I have basic experience with 
-
-- Golang 
-- Gin Gonic (Rest API framework)
-- DDD, SOLID and Clean Code
+- Golang
+- DDD & SOLID 
 - Kafka
-- DevOps (Docker, GitHub Actions)
+  
+### I have basic experience with 
+- Clean Code
+- DevOps (Docker, GitHub Actions, Kubernetes)
+- Java (With the framework Quarkus)
 
 ### I am learning
-
 - Automations
 - Next JS
-- Java
 - Cloud Computing
 
 ### I also have some knowlodge with:
