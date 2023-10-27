@@ -20,8 +20,11 @@
 - Clean Code
 - DevOps (Docker, GitHub Actions, Kubernetes)
 - Java (With the framework Quarkus)
-
+- MongoDB
 ### I am learning
+- PostgreSQL
+
+- Elastic Search
 - Automations
 - Next JS
 - Cloud Computing
