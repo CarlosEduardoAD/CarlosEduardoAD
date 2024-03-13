@@ -1,4 +1,4 @@
-# How's going ? Welcome to my GitHub 👋
+# How's going ? I'm Carlos, experienced Full-stack developer with Node JS, Java and Go Lang
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,12 +40,12 @@
 
 # Some of my projects that I guess you'll like
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sherlock_project&theme=algolia)](https://github.com/CarlosEduardoAD/sherlock_project)<space>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=Flyers&theme=algolia)](https://github.com/CarlosEduardoAD/Flyers)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=nlw-impulse-carlos&theme=algolia)](https://github.com/CarlosEduardoAD/nlw-impulse-carlos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=starfolio&theme=algolia)](https://github.com/CarlosEduardoAD/starfolio)<space>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=B4-projeto-nlw-&theme=algolia)](https://github.com/CarlosEduardoAD/B4-projeto-nlw-)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=B4-projeto-nlw-&theme=algolia)](https://github.com/CarlosEduardoAD/B4-projeto-nlw-)<space>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=go_ing-on&theme=algolia)]( https://github.com/CarlosEduardoAD/go_ing-on)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=sa-senai-vinil&theme=algolia)]( https://github.com/CarlosEduardoAD/sa-senai-vinil)<space>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosEduardoAD&repo=poll-api&theme=algolia)]( https://github.com/CarlosEduardoAD/poll-api)<space>
+
 
 
   
