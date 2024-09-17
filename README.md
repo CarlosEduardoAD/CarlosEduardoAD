@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently **open for work!**
-- 🌱 I’m currently learning **Next JS, Java and Software Architecture**
+- 🌱 I’m currently learning **Java and Software Architecture**
 - 💬 Ask me about **React, Node JS, Go Lang**
 - 📫 How to reach me **karl.devcontato@gmail.com**
 
