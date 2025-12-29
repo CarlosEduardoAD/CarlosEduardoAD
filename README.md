@@ -1,8 +1,7 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Next JS, Software Architecture and System Design**
-- 💬 Ask me about **React, Node JS, Go Lang**
+- 🌱 I’m currently learning **Rust, Software Architecture and System Design**
+- 💬 Ask me about **React, Node JS, Go and Java**
 - 📫 How to reach me **karl.devcontato@gmail.com**
-
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[www.linkedin.com/in/carlos-eduardo-mariano-regis-990222219] 
